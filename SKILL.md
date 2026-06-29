@@ -1,5 +1,6 @@
 ---
 name: world-cup-cal-subscription
+source_url: https://github.com/lizijing98/world-cup-cal
 description: |
   帮助球迷一键订阅 2026 美加墨世界杯完整赛程日历（iCal/.ics），自动同步到
   iPhone、Mac、Android、Google 日历、Outlook 等，每日自动更新比分与赛果。
